@@ -1,0 +1,30 @@
+#profilePic{
+    /* Profile pic is 3:2 ratio */
+    height: 50%;
+    width: 20%;
+    border-radius: 50%;
+}
+
+.entryScreen{
+    height: 93%;
+    border: solid 3px blue;
+}
+
+#bigName{
+    font-size: 10vw;
+    padding-top: 13%;
+    text-align: center;
+}
+
+#subtitle{
+    font-size: 2vw;
+    text-align: center;
+}
+
+html, body{
+    height: 100%;
+}
+
+nav{
+    height: 7%
+}
